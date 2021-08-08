@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Kite/Find related code" />
     <ignoreAction name="Python/Insert type assertion" />
+    <ignoreAction name="Python/Convert single-quoted to double-quoted strings and vice versa" />
   </component>
 </application>
